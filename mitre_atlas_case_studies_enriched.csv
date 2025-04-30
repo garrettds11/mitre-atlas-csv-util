@@ -1,0 +1,226 @@
+id,name,object-type,incident-date,procedure.tactic,procedure.technique,target,actor,mitigation
+AML.CS0000,Evasion of Deep Learning Detector for Malware C&C Traffic,case-study,2020-01-01,Reconnaissance,Pre-Print Repositories,Palo Alto Networks malware detection system,Palo Alto Networks AI Research Team,
+AML.CS0000,Evasion of Deep Learning Detector for Malware C&C Traffic,case-study,2020-01-01,Resource Development,Datasets,Palo Alto Networks malware detection system,Palo Alto Networks AI Research Team,Limit Model Artifact Release
+AML.CS0000,Evasion of Deep Learning Detector for Malware C&C Traffic,case-study,2020-01-01,AI Attack Staging,Create Proxy AI Model,Palo Alto Networks malware detection system,Palo Alto Networks AI Research Team,
+AML.CS0000,Evasion of Deep Learning Detector for Malware C&C Traffic,case-study,2020-01-01,AI Attack Staging,Manual Modification,Palo Alto Networks malware detection system,Palo Alto Networks AI Research Team,
+AML.CS0000,Evasion of Deep Learning Detector for Malware C&C Traffic,case-study,2020-01-01,AI Attack Staging,Verify Attack,Palo Alto Networks malware detection system,Palo Alto Networks AI Research Team,
+AML.CS0000,Evasion of Deep Learning Detector for Malware C&C Traffic,case-study,2020-01-01,Defense Evasion,Evade AI Model,Palo Alto Networks malware detection system,Palo Alto Networks AI Research Team,Adversarial Input Detection
+AML.CS0001,Botnet Domain Generation Algorithm (DGA) Detection Evasion,case-study,2020-01-01,Reconnaissance,Search Open Technical Databases,Palo Alto Networks ML-based DGA detection module,Palo Alto Networks AI Research Team,Limit Public Release of Information
+AML.CS0001,Botnet Domain Generation Algorithm (DGA) Detection Evasion,case-study,2020-01-01,Resource Development,Acquire Public AI Artifacts,Palo Alto Networks ML-based DGA detection module,Palo Alto Networks AI Research Team,Limit Public Release of Information
+AML.CS0001,Botnet Domain Generation Algorithm (DGA) Detection Evasion,case-study,2020-01-01,Resource Development,Adversarial AI Attacks,Palo Alto Networks ML-based DGA detection module,Palo Alto Networks AI Research Team,
+AML.CS0001,Botnet Domain Generation Algorithm (DGA) Detection Evasion,case-study,2020-01-01,AI Attack Staging,Black-Box Optimization,Palo Alto Networks ML-based DGA detection module,Palo Alto Networks AI Research Team,Adversarial Input Detection
+AML.CS0001,Botnet Domain Generation Algorithm (DGA) Detection Evasion,case-study,2020-01-01,AI Attack Staging,Verify Attack,Palo Alto Networks ML-based DGA detection module,Palo Alto Networks AI Research Team,
+AML.CS0001,Botnet Domain Generation Algorithm (DGA) Detection Evasion,case-study,2020-01-01,Defense Evasion,Evade AI Model,Palo Alto Networks ML-based DGA detection module,Palo Alto Networks AI Research Team,Adversarial Input Detection
+AML.CS0002,VirusTotal Poisoning,case-study,2020-01-01,Resource Development,Adversarial AI Attack Implementations,VirusTotal,Unknown,
+AML.CS0002,VirusTotal Poisoning,case-study,2020-01-01,AI Attack Staging,Craft Adversarial Data,VirusTotal,Unknown,
+AML.CS0002,VirusTotal Poisoning,case-study,2020-01-01,Initial Access,Data,VirusTotal,Unknown,Maintain AI Dataset Provenance
+AML.CS0002,VirusTotal Poisoning,case-study,2020-01-01,Persistence,Poison Training Data,VirusTotal,Unknown,Maintain AI Dataset Provenance
+AML.CS0003,Bypassing Cylance's AI Malware Detection,case-study,2019-09-07,Reconnaissance,Search Open Technical Databases,"CylancePROTECT, Cylance Smart Antivirus",Skylight Cyber,Limit Public Release of Information
+AML.CS0003,Bypassing Cylance's AI Malware Detection,case-study,2019-09-07,AI Model Access,AI-Enabled Product or Service,"CylancePROTECT, Cylance Smart Antivirus",Skylight Cyber,AI Telemetry Logging
+AML.CS0003,Bypassing Cylance's AI Malware Detection,case-study,2019-09-07,Discovery,AML.T0063,"CylancePROTECT, Cylance Smart Antivirus",Skylight Cyber,
+AML.CS0003,Bypassing Cylance's AI Malware Detection,case-study,2019-09-07,Resource Development,Adversarial AI Attacks,"CylancePROTECT, Cylance Smart Antivirus",Skylight Cyber,
+AML.CS0003,Bypassing Cylance's AI Malware Detection,case-study,2019-09-07,AI Attack Staging,Manual Modification,"CylancePROTECT, Cylance Smart Antivirus",Skylight Cyber,
+AML.CS0003,Bypassing Cylance's AI Malware Detection,case-study,2019-09-07,Defense Evasion,Evade AI Model,"CylancePROTECT, Cylance Smart Antivirus",Skylight Cyber,Adversarial Input Detection
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,Resource Development,Consumer Hardware,Shanghai government tax office's facial recognition service,Two individuals,
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,Resource Development,Software Tools,Shanghai government tax office's facial recognition service,Two individuals,
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,Resource Development,Adversarial AI Attack Implementations,Shanghai government tax office's facial recognition service,Two individuals,
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,Resource Development,Establish Accounts,Shanghai government tax office's facial recognition service,Two individuals,
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,AI Model Access,AI-Enabled Product or Service,Shanghai government tax office's facial recognition service,Two individuals,AI Telemetry Logging
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,Initial Access,Evade AI Model,Shanghai government tax office's facial recognition service,Two individuals,Adversarial Input Detection
+AML.CS0004,Camera Hijack Attack on Facial Recognition System,case-study,2020-01-01,Impact,Financial Harm,Shanghai government tax office's facial recognition service,Two individuals,
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,Reconnaissance,Search Open Technical Databases,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,Limit Public Release of Information
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,Resource Development,Datasets,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,Limit Model Artifact Release
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,Resource Development,Models,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,Limit Model Artifact Release
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,AI Model Access,AI Model Inference API Access,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,AI Telemetry Logging
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,AI Attack Staging,Train Proxy via Replication,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,AI Telemetry Logging
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,Impact,AI Intellectual Property Theft,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,Encrypt Sensitive Information
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,AI Attack Staging,Black-Box Transfer,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,Impact,Evade AI Model,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,Adversarial Input Detection
+AML.CS0005,Attack on Machine Translation Services,case-study,2020-04-30,Impact,Erode AI Model Integrity,"Google Translate, Bing Translator, Systran Translate",Berkeley Artificial Intelligence Research,Adversarial Input Detection
+AML.CS0006,ClearviewAI Misconfiguration,case-study,2020-04-16,Resource Development,Establish Accounts,Clearview AI facial recognition tool,Researchers at spiderSilk,
+AML.CS0006,ClearviewAI Misconfiguration,case-study,2020-04-16,Collection,Data from Information Repositories,Clearview AI facial recognition tool,Researchers at spiderSilk,
+AML.CS0006,ClearviewAI Misconfiguration,case-study,2020-04-16,Resource Development,Acquire Public AI Artifacts,Clearview AI facial recognition tool,Researchers at spiderSilk,Limit Public Release of Information
+AML.CS0006,ClearviewAI Misconfiguration,case-study,2020-04-16,Impact,Erode AI Model Integrity,Clearview AI facial recognition tool,Researchers at spiderSilk,Adversarial Input Detection
+AML.CS0007,GPT-2 Model Replication,case-study,2019-08-22,Reconnaissance,Search Open Technical Databases,OpenAI GPT-2,Researchers at Brown University,Limit Public Release of Information
+AML.CS0007,GPT-2 Model Replication,case-study,2019-08-22,Resource Development,Models,OpenAI GPT-2,Researchers at Brown University,Limit Model Artifact Release
+AML.CS0007,GPT-2 Model Replication,case-study,2019-08-22,Resource Development,Datasets,OpenAI GPT-2,Researchers at Brown University,Limit Model Artifact Release
+AML.CS0007,GPT-2 Model Replication,case-study,2019-08-22,Resource Development,AI Development Workspaces,OpenAI GPT-2,Researchers at Brown University,
+AML.CS0007,GPT-2 Model Replication,case-study,2019-08-22,AI Attack Staging,Train Proxy via Gathered AI Artifacts,OpenAI GPT-2,Researchers at Brown University,
+AML.CS0008,ProofPoint Evasion,case-study,2019-09-09,Discovery,AML.T0063,ProofPoint Email Protection System,Researchers at Silent Break Security,
+AML.CS0008,ProofPoint Evasion,case-study,2019-09-09,AI Model Access,AI-Enabled Product or Service,ProofPoint Email Protection System,Researchers at Silent Break Security,AI Telemetry Logging
+AML.CS0008,ProofPoint Evasion,case-study,2019-09-09,AI Attack Staging,Train Proxy via Replication,ProofPoint Email Protection System,Researchers at Silent Break Security,AI Telemetry Logging
+AML.CS0008,ProofPoint Evasion,case-study,2019-09-09,AI Attack Staging,Black-Box Transfer,ProofPoint Email Protection System,Researchers at Silent Break Security,
+AML.CS0008,ProofPoint Evasion,case-study,2019-09-09,Impact,Evade AI Model,ProofPoint Email Protection System,Researchers at Silent Break Security,Adversarial Input Detection
+AML.CS0009,Tay Poisoning,case-study,2016-03-23,AI Model Access,AI-Enabled Product or Service,Microsoft's Tay AI Chatbot,4chan Users,AI Telemetry Logging
+AML.CS0009,Tay Poisoning,case-study,2016-03-23,Initial Access,Data,Microsoft's Tay AI Chatbot,4chan Users,Maintain AI Dataset Provenance
+AML.CS0009,Tay Poisoning,case-study,2016-03-23,Persistence,Poison Training Data,Microsoft's Tay AI Chatbot,4chan Users,Maintain AI Dataset Provenance
+AML.CS0009,Tay Poisoning,case-study,2016-03-23,Impact,Erode AI Model Integrity,Microsoft's Tay AI Chatbot,4chan Users,Adversarial Input Detection
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,Reconnaissance,Search Open Technical Databases,Internal Microsoft Azure Service,Microsoft AI Red Team,Limit Public Release of Information
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,Initial Access,Valid Accounts,Internal Microsoft Azure Service,Microsoft AI Red Team,
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,Collection,AI Artifact Collection,Internal Microsoft Azure Service,Microsoft AI Red Team,Encrypt Sensitive Information
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,Exfiltration,Exfiltration via Cyber Means,Internal Microsoft Azure Service,Microsoft AI Red Team,Control Access to AI Models and Data at Rest
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,AI Attack Staging,White-Box Optimization,Internal Microsoft Azure Service,Microsoft AI Red Team,AI Model Distribution Methods
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,AI Model Access,AI Model Inference API Access,Internal Microsoft Azure Service,Microsoft AI Red Team,AI Telemetry Logging
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,AI Attack Staging,Verify Attack,Internal Microsoft Azure Service,Microsoft AI Red Team,
+AML.CS0010,Microsoft Azure Service Disruption,case-study,2020-01-01,Impact,Evade AI Model,Internal Microsoft Azure Service,Microsoft AI Red Team,Adversarial Input Detection
+AML.CS0011,Microsoft Edge AI Evasion,case-study,2020-02-01,Reconnaissance,Search Open Technical Databases,New Microsoft AI Product,Azure Red Team,Limit Public Release of Information
+AML.CS0011,Microsoft Edge AI Evasion,case-study,2020-02-01,Resource Development,Acquire Public AI Artifacts,New Microsoft AI Product,Azure Red Team,Limit Public Release of Information
+AML.CS0011,Microsoft Edge AI Evasion,case-study,2020-02-01,AI Model Access,AI Model Inference API Access,New Microsoft AI Product,Azure Red Team,AI Telemetry Logging
+AML.CS0011,Microsoft Edge AI Evasion,case-study,2020-02-01,AI Attack Staging,Black-Box Optimization,New Microsoft AI Product,Azure Red Team,Adversarial Input Detection
+AML.CS0011,Microsoft Edge AI Evasion,case-study,2020-02-01,Impact,Evade AI Model,New Microsoft AI Product,Azure Red Team,Adversarial Input Detection
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,Reconnaissance,Search Open Technical Databases,Commercial Face Identification Service,MITRE AI Red Team,Limit Public Release of Information
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,Initial Access,Valid Accounts,Commercial Face Identification Service,MITRE AI Red Team,
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,AI Model Access,AI Model Inference API Access,Commercial Face Identification Service,MITRE AI Red Team,AI Telemetry Logging
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,Discovery,Discover AI Model Ontology,Commercial Face Identification Service,MITRE AI Red Team,Restrict Number of AI Model Queries
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,Resource Development,Datasets,Commercial Face Identification Service,MITRE AI Red Team,Limit Model Artifact Release
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,AI Attack Staging,Create Proxy AI Model,Commercial Face Identification Service,MITRE AI Red Team,
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,AI Attack Staging,White-Box Optimization,Commercial Face Identification Service,MITRE AI Red Team,AI Model Distribution Methods
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,Resource Development,AML.T0008.003,Commercial Face Identification Service,MITRE AI Red Team,
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,AI Model Access,Physical Environment Access,Commercial Face Identification Service,MITRE AI Red Team,Use Multi-Modal Sensors
+AML.CS0012,Face Identification System Evasion via Physical Countermeasures,case-study,2020-01-01,Impact,Evade AI Model,Commercial Face Identification Service,MITRE AI Red Team,Adversarial Input Detection
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,Reconnaissance,Search Application Repositories,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",Limit Public Release of Information
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,Resource Development,Models,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",Limit Model Artifact Release
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,AI Model Access,Full AI Model Access,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",AI Model Distribution Methods
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,Resource Development,Adversarial AI Attacks,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,Persistence,Modify AI Model Architecture,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",Validate AI Model
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,AI Attack Staging,Verify Attack,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,Initial Access,Model,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",AI Model Distribution Methods
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,AI Attack Staging,Insert Backdoor Trigger,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,AI Model Access,Physical Environment Access,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",Use Multi-Modal Sensors
+AML.CS0013,Backdoor Attack on Deep Learning Models in Mobile Apps,case-study,2021-01-18,Impact,Evade AI Model,ML-based Android Apps,"Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu",Adversarial Input Detection
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,Reconnaissance,Search Open AI Vulnerability Analysis,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,Reconnaissance,Search Victim-Owned Websites,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,Limit Public Release of Information
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,AI Model Access,AI-Enabled Product or Service,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,AI Telemetry Logging
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,Resource Development,Datasets,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,Limit Model Artifact Release
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,AI Attack Staging,Create Proxy AI Model,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,Resource Development,Adversarial AI Attacks,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,AI Attack Staging,Black-Box Transfer,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,AI Attack Staging,Verify Attack,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,
+AML.CS0014,Confusing Antimalware Neural Networks,case-study,2021-06-23,Defense Evasion,Evade AI Model,Kaspersky's Antimalware ML Model,Kaspersky ML Research Team,Adversarial Input Detection
+AML.CS0015,Compromised PyTorch Dependency Chain,case-study,2022-12-25,Initial Access,AI Software,PyTorch,Unknown,Code Signing
+AML.CS0015,Compromised PyTorch Dependency Chain,case-study,2022-12-25,Collection,Data from Local System,PyTorch,Unknown,
+AML.CS0015,Compromised PyTorch Dependency Chain,case-study,2022-12-25,Exfiltration,Exfiltration via Cyber Means,PyTorch,Unknown,Control Access to AI Models and Data at Rest
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Reconnaissance,Search Open AI Vulnerability Analysis,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,AI Model Access,AI-Enabled Product or Service,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,AI Telemetry Logging
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Execution,Direct,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,AI Telemetry Logging
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,AI Attack Staging,Verify Attack,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Initial Access,Exploit Public-Facing Application,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Execution,LLM Plugin Compromise,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,Generative AI Model Alignment
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Credential Access,Unsecured Credentials,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Impact,Financial Harm,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,
+AML.CS0016,Achieving Code Execution in MathGPT via Prompt Injection,case-study,2023-01-28,Impact,Denial of AI Service,MathGPT (https://mathgpt.streamlit.app/),Ludwig-Ferdinand Stumpp,Adversarial Input Detection
+AML.CS0017,Bypassing ID.me Identity Verification,case-study,2020-10-01,AI Model Access,AI-Enabled Product or Service,California Employment Development Department,One individual,AI Telemetry Logging
+AML.CS0017,Bypassing ID.me Identity Verification,case-study,2020-10-01,Initial Access,Evade AI Model,California Employment Development Department,One individual,Adversarial Input Detection
+AML.CS0017,Bypassing ID.me Identity Verification,case-study,2020-10-01,Impact,Financial Harm,California Employment Development Department,One individual,
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Resource Development,Develop Capabilities,Google Colab,Tony Piazza,
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Initial Access,AI Software,Google Colab,Tony Piazza,Code Signing
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Initial Access,Valid Accounts,Google Colab,Tony Piazza,
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Execution,User Execution,Google Colab,Tony Piazza,User Training
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Collection,AI Artifact Collection,Google Colab,Tony Piazza,Encrypt Sensitive Information
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Exfiltration,Exfiltration via Cyber Means,Google Colab,Tony Piazza,Control Access to AI Models and Data at Rest
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Impact,AI Intellectual Property Theft,Google Colab,Tony Piazza,Encrypt Sensitive Information
+AML.CS0018,Arbitrary Code Execution with Google Colab,case-study,2022-07-01,Impact,External Harms,Google Colab,Tony Piazza,
+AML.CS0019,PoisonGPT,case-study,2023-07-01,Resource Development,Models,HuggingFace Users,Mithril Security Researchers,Limit Model Artifact Release
+AML.CS0019,PoisonGPT,case-study,2023-07-01,AI Attack Staging,Poison AI Model,HuggingFace Users,Mithril Security Researchers,Maintain AI Dataset Provenance
+AML.CS0019,PoisonGPT,case-study,2023-07-01,AI Attack Staging,Verify Attack,HuggingFace Users,Mithril Security Researchers,
+AML.CS0019,PoisonGPT,case-study,2023-07-01,Resource Development,Publish Poisoned Models,HuggingFace Users,Mithril Security Researchers,AI Bill of Materials
+AML.CS0019,PoisonGPT,case-study,2023-07-01,Initial Access,Model,HuggingFace Users,Mithril Security Researchers,AI Model Distribution Methods
+AML.CS0019,PoisonGPT,case-study,2023-07-01,Impact,Erode AI Model Integrity,HuggingFace Users,Mithril Security Researchers,Adversarial Input Detection
+AML.CS0019,PoisonGPT,case-study,2023-07-01,Impact,Reputational Harm,HuggingFace Users,Mithril Security Researchers,
+AML.CS0020,Indirect Prompt Injection Threats: Bing Chat Data Pirate,case-study,2023-01-01,Resource Development,Develop Capabilities,Microsoft Bing Chat,"Kai Greshake, Saarland University",
+AML.CS0020,Indirect Prompt Injection Threats: Bing Chat Data Pirate,case-study,2023-01-01,Defense Evasion,LLM Prompt Obfuscation,Microsoft Bing Chat,"Kai Greshake, Saarland University",
+AML.CS0020,Indirect Prompt Injection Threats: Bing Chat Data Pirate,case-study,2023-01-01,Execution,Indirect,Microsoft Bing Chat,"Kai Greshake, Saarland University",AI Telemetry Logging
+AML.CS0020,Indirect Prompt Injection Threats: Bing Chat Data Pirate,case-study,2023-01-01,Initial Access,Spearphishing via Social Engineering LLM,Microsoft Bing Chat,"Kai Greshake, Saarland University",
+AML.CS0020,Indirect Prompt Injection Threats: Bing Chat Data Pirate,case-study,2023-01-01,Impact,User Harm,Microsoft Bing Chat,"Kai Greshake, Saarland University",
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Resource Development,LLM Prompt Crafting,OpenAI ChatGPT,Embrace The Red,
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Resource Development,Stage Capabilities,OpenAI ChatGPT,Embrace The Red,
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Initial Access,Drive-by Compromise,OpenAI ChatGPT,Embrace The Red,
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Execution,Indirect,OpenAI ChatGPT,Embrace The Red,AI Telemetry Logging
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Exfiltration,LLM Response Rendering,OpenAI ChatGPT,Embrace The Red,
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Privilege Escalation,LLM Plugin Compromise,OpenAI ChatGPT,Embrace The Red,Generative AI Model Alignment
+AML.CS0021,ChatGPT Conversation Exfiltration,case-study,2023-05-01,Impact,User Harm,OpenAI ChatGPT,Embrace The Red,
+AML.CS0022,ChatGPT Package Hallucination,case-study,2024-06-01,AI Model Access,AI Model Inference API Access,ChatGPT users,"Vulcan Cyber, Lasso Security",AI Telemetry Logging
+AML.CS0022,ChatGPT Package Hallucination,case-study,2024-06-01,Discovery,AML.T0062,ChatGPT users,"Vulcan Cyber, Lasso Security",
+AML.CS0022,ChatGPT Package Hallucination,case-study,2024-06-01,Resource Development,AML.T0060,ChatGPT users,"Vulcan Cyber, Lasso Security",
+AML.CS0022,ChatGPT Package Hallucination,case-study,2024-06-01,Initial Access,AI Software,ChatGPT users,"Vulcan Cyber, Lasso Security",Code Signing
+AML.CS0022,ChatGPT Package Hallucination,case-study,2024-06-01,Execution,AML.T0011.001,ChatGPT users,"Vulcan Cyber, Lasso Security",
+AML.CS0022,ChatGPT Package Hallucination,case-study,2024-06-01,Impact,User Harm,ChatGPT users,"Vulcan Cyber, Lasso Security",
+AML.CS0023,ShadowRay,case-study,2023-09-05,Reconnaissance,Active Scanning,Multiple systems,Ray,
+AML.CS0023,ShadowRay,case-study,2023-09-05,Initial Access,Exploit Public-Facing Application,Multiple systems,Ray,
+AML.CS0023,ShadowRay,case-study,2023-09-05,Collection,AI Artifact Collection,Multiple systems,Ray,Encrypt Sensitive Information
+AML.CS0023,ShadowRay,case-study,2023-09-05,Credential Access,Unsecured Credentials,Multiple systems,Ray,
+AML.CS0023,ShadowRay,case-study,2023-09-05,Exfiltration,Exfiltration via Cyber Means,Multiple systems,Ray,Control Access to AI Models and Data at Rest
+AML.CS0023,ShadowRay,case-study,2023-09-05,Initial Access,Model,Multiple systems,Ray,AI Model Distribution Methods
+AML.CS0023,ShadowRay,case-study,2023-09-05,Impact,Financial Harm,Multiple systems,Ray,
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,AI Model Access,AI Model Inference API Access,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",AI Telemetry Logging
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,Execution,Direct,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",AI Telemetry Logging
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,Execution,LLM Plugin Compromise,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",Generative AI Model Alignment
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,Execution,Indirect,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",AI Telemetry Logging
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,Persistence,AML.T0061,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,Exfiltration,LLM Data Leakage,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",Generative AI Model Alignment
+AML.CS0024,Morris II Worm: RAG-Based Attack,case-study,2024-03-05,Impact,User Harm,RAG-based e-mail assistant,"Stav Cohen, Ron Bitton, Ben Nassi",
+AML.CS0025,Web-Scale Data Poisoning: Split-View Attack,case-study,2024-06-06,Resource Development,Datasets,10 web-scale datasets,"Researchers from Google Deepmind, ETH Zurich, NVIDIA, Robust Intelligence, and Google",Limit Model Artifact Release
+AML.CS0025,Web-Scale Data Poisoning: Split-View Attack,case-study,2024-06-06,Resource Development,AML.T0008.002,10 web-scale datasets,"Researchers from Google Deepmind, ETH Zurich, NVIDIA, Robust Intelligence, and Google",
+AML.CS0025,Web-Scale Data Poisoning: Split-View Attack,case-study,2024-06-06,Resource Development,Poison Training Data,10 web-scale datasets,"Researchers from Google Deepmind, ETH Zurich, NVIDIA, Robust Intelligence, and Google",Maintain AI Dataset Provenance
+AML.CS0025,Web-Scale Data Poisoning: Split-View Attack,case-study,2024-06-06,Resource Development,Publish Poisoned Datasets,10 web-scale datasets,"Researchers from Google Deepmind, ETH Zurich, NVIDIA, Robust Intelligence, and Google",AI Bill of Materials
+AML.CS0025,Web-Scale Data Poisoning: Split-View Attack,case-study,2024-06-06,Impact,AML.T0059,10 web-scale datasets,"Researchers from Google Deepmind, ETH Zurich, NVIDIA, Robust Intelligence, and Google",
+AML.CS0025,Web-Scale Data Poisoning: Split-View Attack,case-study,2024-06-06,Impact,Erode AI Model Integrity,10 web-scale datasets,"Researchers from Google Deepmind, ETH Zurich, NVIDIA, Robust Intelligence, and Google",Adversarial Input Detection
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Reconnaissance,Gather RAG-Indexed Targets,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,AI Model Access,AI-Enabled Product or Service,Microsoft 365 Copilot,Zenity,AI Telemetry Logging
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Discovery,Special Character Sets,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Discovery,System Instruction Keywords,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Resource Development,Retrieval Content Crafting,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Resource Development,LLM Prompt Crafting,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Initial Access,Exploit Public-Facing Application,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Defense Evasion,LLM Prompt Obfuscation,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Persistence,RAG Poisoning,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Defense Evasion,False RAG Entry Injection,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Execution,Indirect,Microsoft 365 Copilot,Zenity,AI Telemetry Logging
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Privilege Escalation,LLM Plugin Compromise,Microsoft 365 Copilot,Zenity,Generative AI Model Alignment
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Defense Evasion,Citations,Microsoft 365 Copilot,Zenity,
+AML.CS0026,Financial Transaction Hijacking with M365 Copilot as an Insider,case-study,2024-08-08,Impact,Financial Harm,Microsoft 365 Copilot,Zenity,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Resource Development,Establish Accounts,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Defense Evasion,Impersonation,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,AI Model Access,Full AI Model Access,Hugging Face users,threlfall_hax,AI Model Distribution Methods
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Impact,AI Intellectual Property Theft,Hugging Face users,threlfall_hax,Encrypt Sensitive Information
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,AI Attack Staging,Embed Malware,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Resource Development,Publish Poisoned Models,Hugging Face users,threlfall_hax,AI Bill of Materials
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Initial Access,Model,Hugging Face users,threlfall_hax,AI Model Distribution Methods
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Execution,Unsafe AI Artifacts,Hugging Face users,threlfall_hax,AI Bill of Materials
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Defense Evasion,Masquerading,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Command and Control,Reverse Shell,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Credential Access,Unsecured Credentials,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Exfiltration,Exfiltration via Cyber Means,Hugging Face users,threlfall_hax,Control Access to AI Models and Data at Rest
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Discovery,Discover AI Artifacts,Hugging Face users,threlfall_hax,Encrypt Sensitive Information
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Resource Development,Adversarial AI Attack Implementations,Hugging Face users,threlfall_hax,
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,AI Attack Staging,Poison AI Model,Hugging Face users,threlfall_hax,Maintain AI Dataset Provenance
+AML.CS0027,Organization Confusion on Hugging Face,case-study,2023-08-23,Impact,External Harms,Hugging Face users,threlfall_hax,
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Reconnaissance,Search Application Repositories,Private Container Registries,Trend Micro Nebula Cloud Research Team,Limit Public Release of Information
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Initial Access,Exploit Public-Facing Application,Private Container Registries,Trend Micro Nebula Cloud Research Team,
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Discovery,Discover AI Artifacts,Private Container Registries,Trend Micro Nebula Cloud Research Team,Encrypt Sensitive Information
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,AI Model Access,Full AI Model Access,Private Container Registries,Trend Micro Nebula Cloud Research Team,AI Model Distribution Methods
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Impact,AI Intellectual Property Theft,Private Container Registries,Trend Micro Nebula Cloud Research Team,Encrypt Sensitive Information
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Persistence,Poison AI Model,Private Container Registries,Trend Micro Nebula Cloud Research Team,Maintain AI Dataset Provenance
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Persistence,Modify AI Model Architecture,Private Container Registries,Trend Micro Nebula Cloud Research Team,Validate AI Model
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Initial Access,Container Registry,Private Container Registries,Trend Micro Nebula Cloud Research Team,
+AML.CS0028,AI Model Tampering via Supply Chain Attack,case-study,2023-09-26,Impact,Evade AI Model,Private Container Registries,Trend Micro Nebula Cloud Research Team,Adversarial Input Detection
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Resource Development,LLM Prompt Crafting,Google Bard,Embrace the Red,
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Resource Development,Acquire Infrastructure,Google Bard,Embrace the Red,
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Resource Development,Develop Capabilities,Google Bard,Embrace the Red,
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Initial Access,Exploit Public-Facing Application,Google Bard,Embrace the Red,
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Execution,Indirect,Google Bard,Embrace the Red,AI Telemetry Logging
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Exfiltration,LLM Response Rendering,Google Bard,Embrace the Red,
+AML.CS0029,Google Bard Conversation Exfiltration,case-study,2023-11-23,Impact,User Harm,Google Bard,Embrace the Red,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Initial Access,Exploit Public-Facing Application,Cloud-Based LLM Services,Unknown,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Credential Access,Unsecured Credentials,Cloud-Based LLM Services,Unknown,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Initial Access,Valid Accounts,Cloud-Based LLM Services,Unknown,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Resource Development,Software Tools,Cloud-Based LLM Services,Unknown,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Discovery,Cloud Service Discovery,Cloud-Based LLM Services,Unknown,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Resource Development,Software Tools,Cloud-Based LLM Services,Unknown,
+AML.CS0030,LLM Jacking,case-study,2024-05-06,Impact,Financial Harm,Cloud-Based LLM Services,Unknown,
+AML.CS0031,Malicious Models on Hugging Face,case-study,2025-02-25,AI Attack Staging,Embed Malware,Hugging Face users,Unknown,
+AML.CS0031,Malicious Models on Hugging Face,case-study,2025-02-25,Resource Development,Publish Poisoned Models,Hugging Face users,Unknown,AI Bill of Materials
+AML.CS0031,Malicious Models on Hugging Face,case-study,2025-02-25,Defense Evasion,Corrupt AI Model,Hugging Face users,Unknown,
+AML.CS0031,Malicious Models on Hugging Face,case-study,2025-02-25,Initial Access,AI Supply Chain Compromise,Hugging Face users,Unknown,Generative AI Guardrails
+AML.CS0031,Malicious Models on Hugging Face,case-study,2025-02-25,Execution,Unsafe AI Artifacts,Hugging Face users,Unknown,AI Bill of Materials
+AML.CS0031,Malicious Models on Hugging Face,case-study,2025-02-25,Command and Control,Reverse Shell,Hugging Face users,Unknown,
